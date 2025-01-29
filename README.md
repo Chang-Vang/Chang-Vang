@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a senior at Metropolitan State University, passionate about problem solving and building applications.<br>I'm currently working on improving my technical skills with coding and problem-solving. <br>In my student life, I'm currently learning about and exploring machine learning. <br><br>In my personal life, I am trying out the art of 3D printing and designing. <br>In the summer days, I enjoy kayaking and sight-seeing nature.
+Senior at Metropolitan State University, passionate about problem solving and building applications.<br>Currently working on improving my technical skills with coding and problem-solving. <br>In my student life, I'm currently learning about and exploring machine learning. <br><br>Love exploring in the art of 3D printing. <br>In the summer days, I enjoy kayaking and sight-seeing nature.
 
 
 ## 🌐 Socials:

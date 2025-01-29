@@ -20,3 +20,9 @@ Senior at Metropolitan State University, passionate about problem solving and bu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Project-Escape&icon=0&color=2)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chang-Vang/Chang-Vang/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chang-Vang/Chang-Vang/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Chang-Vang/Chang-Vang/output/github-snake.svg" />
+</picture>
